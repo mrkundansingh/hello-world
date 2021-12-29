@@ -1,10 +1,5 @@
-<html>
-<head>
-</head>
-<body>
+<?php
+	echo 'Hello, World!';
+?>
 
-<center> <h1>Hello ...</h1> </center>
-
-</body>
-</html>
 
